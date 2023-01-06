@@ -1,2 +1,4 @@
 # Project exclude paths
 /mongodb-spring/target/
+
+.idea
